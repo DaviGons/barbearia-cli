@@ -1,3 +1,12 @@
+ALUNOS
+DAVI GONÇALVES SILVA (RA 2505783)
+GUSTAVO ZAIA PASTRO (2506964)
+
+
+
+
+
+
 Sistema de Agendamento para Barbearia (CLI)
 Este é um sistema simples, executado via terminal, para gerenciar agendamentos de uma barbearia. Os dados são salvos localmente em um arquivo agendamentos.txt.
 
